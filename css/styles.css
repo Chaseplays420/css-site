@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    margin-bottom: 0;
+    color: #40514E;
+    
+}
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    color: #66BFBF;
+   
+}
+h2 { 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    padding-bottom: 10px ;
+}
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-size: 2rem;
+  
+    
+}
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4% ;
+    margin: 100px auto;
+
+}
+p {
+    line-height: 2;
+}
+.footer-link {
+    color: #11999E;
+    
+
+}
+.programmer {
+ font-weight: normal;
+}
+.top {
+    background-color:#e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+    
+
+.tc {
+    position: absolute;
+    right: 400px;
+    top: 50px;
+    
+
+}
+.btc  {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    
+
+ 
+}
+.pro {
+    text-decoration: underline;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    
+}
+.code-gif {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.gaming-img {
+    float: right;
+    margin-left: 30px;
+}
+
+
+.middle-container {
+    margin: 100px 0 0;
+
+}
+.bottom-container {
+    background-color: #66BFBF
+    ;
+    padding: 50px 0px 20px;
+}
+.footer-link {
+    margin: auto 20px auto 20px;
+}
+.copy {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0 ;
+}
+.btn {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color:#EAF6F6 ;
+    font-size: 16px;
+    font-weight: 100;
+    padding: 15px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom:50px ;
+ }
+.intro {
+    width: 30%;
+    margin: auto;
+}
+.contact-msg {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+a {
+    font-family: 'Montserrat', sans-serif; 
+    text-decoration: none;
+}
+a:hover {
+    color: #eaf6f6;
+}
